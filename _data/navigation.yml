@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Math"
+    url: /categories/math/
+  - title: "ML"
+    url: /categories/machine learning/
+  - title: "AI"
+    url: /categories/artificial intelligence/
+  - title: "Research"
+    url: /categories/research/
+  - title: "Portfolio"
+    url: https:hytae1993.github.io/portfolio
+
+  
