@@ -10,6 +10,8 @@ categories:
   - paper
 tags:
   - classification
+  - segmentation
+  - object detection
   - knowledge distillation
 
 last_modified_at: 2021-10-18
