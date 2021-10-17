@@ -2,7 +2,7 @@
 title: "Math"
 permalink: /categories/math/
 layout: category
-author_profile: false
+author_profile: true
 taxonomy: math
 ---
 
