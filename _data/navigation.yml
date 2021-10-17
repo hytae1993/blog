@@ -6,6 +6,8 @@ main:
     url: /categories/machine learning/
   - title: "AI"
     url: /categories/artificial intelligence/
+  - title: "Paper"
+    url: /categories/paper/
   - title: "Research"
     url: /categories/research/
   - title: "Portfolio"
