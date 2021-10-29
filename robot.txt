@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hytae1993.github.io/blog/sitemap.xml
+Sitemap: https://hytae1993.github.io/blog/blob/gh-pages/sitemap.xml
